@@ -27,6 +27,8 @@ QR code will appear on your terminal screen, scan it using:
 [Android Expo app](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
 [iOS Expo app](https://itunes.apple.com/app/apple-store/id982107779)
 
+
+[create new project and database in Firebase](https://firebase.google.com/docs/web/setup), and add your own Firebase project credentials in ```App.js```.
 Voila!!!!
 
 ### To Build
