@@ -8,7 +8,7 @@ After cloning the repo
 
 ```
 # if you haven't already expo on your machine
-npm i -g expo exp
+npm i -g expo-cli exp
 
 # change into the project folder
 cd rn_manager_app
